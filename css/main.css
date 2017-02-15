@@ -11,15 +11,31 @@ h1 {
 }
 
 h2 {
-	color: white;
+	color: dodgerblue;
 	font-family: 'Abril Fatface', cursive;
 }
+
+p{
+	color:white;
+font-family: 'Abril Fatface', cursive;
+width:60%;	
+
+}
 article {
-	display: inline-block;
+	  display: inline-block;
+  margin: 1%;
+  padding: 20px;
+  text-align: center;
+  width:25%;		
 }
 
 #celebrate {
 	text-align: center;
 }
+
+#presidents {
+	display:inline-block;
+}
+
 
 
