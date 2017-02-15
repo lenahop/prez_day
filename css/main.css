@@ -1,0 +1,25 @@
+body {
+	background-color: firebrick; 
+}
+
+h1 {
+	color: dodgerblue;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+
+
+}
+
+h2 {
+	color: white;
+	font-family: 'Abril Fatface', cursive;
+}
+article {
+	display: inline-block;
+}
+
+#celebrate {
+	text-align: center;
+}
+
+
